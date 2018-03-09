@@ -5,7 +5,7 @@
   "author": "majorpain <majorpainusmc22@no-trace.net> (http://smooch.io/)",
   "engines": {     "node": "8.9.4"   },  
   "scripts": {
-    "start": "node app.js"
+    "start": "node heroku"
   },
   "license": "MIT",
   "dependencies": {
